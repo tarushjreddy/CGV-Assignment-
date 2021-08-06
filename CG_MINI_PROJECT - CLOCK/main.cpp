@@ -145,10 +145,10 @@ void display(void)
         glClear(GL_COLOR_BUFFER_BIT);
         glColor3f(1.0f, 0.0f, 0.0f);
         glBegin(GL_LINES);
-        glVertex2f(-25, 60);    //left edge upper point
-        glVertex2f(-55, 15);   //left edge lower point
-        glVertex2f(20, 60);     //right edge upper point
-        glVertex2f(30, 45);    //right edge lower point
+        glVertex2f(-55, 60);    //left edge upper point
+        glVertex2f(-55, 25);   //left edge lower point
+        glVertex2f(60, 60);     //right edge upper point
+        glVertex2f(60, 25);    //right edge lower point
         glVertex2f(-55, 25);   //bottom edge left point
         glVertex2f(60, 25);    //bottom edge right point
         glVertex2f(-55, 60);    //upper edge left point
