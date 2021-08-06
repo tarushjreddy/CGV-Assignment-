@@ -16,7 +16,7 @@ Developed By:
 
 <img style="height:200px" src="./imagezero.jpeg"/>
 
-<img style="height:200px" src="./imageone.jpeg"/>
+<img style="height:200px" src="./Imageone.jpeg"/>
 
 <img style="height:200px" src="./imagetwo.jpeg"/>
 </span>
