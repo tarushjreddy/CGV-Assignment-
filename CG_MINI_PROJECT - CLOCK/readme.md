@@ -5,7 +5,7 @@ Developed By:
 
 <h3> Swati &nbsp |&nbsp 1BY18CS175 </h3>
 
-<h3> Tarush J Reddy &nbsp |&nbsp 1BY18CS175</h3>
+<h3> Tarush J Reddy &nbsp |&nbsp 1BY18CS177</h3>
 
 <hr></hr>
 <br/>
