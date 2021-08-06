@@ -13,11 +13,11 @@ Developed By:
 ## Real-Time Clock
 <br/>
 <span>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
 <img style="height:200px" src="./imagezero.jpeg"/>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
 <img style="height:200px" src="./imageone.jpeg"/>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
 <img style="height:200px" src="./imagetwo.jpeg"/>
 </span>
 
